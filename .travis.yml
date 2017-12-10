@@ -2,7 +2,6 @@ language: php
 
 php:
   - 7.0
-  - 7.1
 
 # Elasticsearch 5 requires Java 8
 addons:
